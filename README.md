@@ -40,3 +40,7 @@ Execution time will be printed to the terminal.
    - data_1000.txt and data_1000_sorted.txt
    - data_10000.txt and data_10000_sorted.txt
    - data_100000.txt and data_100000_sorted.txt
+3. Run the following command in order to generate the graph:
+   ```
+     python3 generate-graph.py [generate_time1000] [generate_time10000] [generate_time100000] [sort_time1000] [sort_time10000] [sort_time100000]
+   ```
