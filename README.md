@@ -9,6 +9,7 @@ To run the script to complete even if ssh (or bash) session is terminated, use t
 
 `&` makes sure that shell doesn't wait for the command to finish
 
+
 The code above will generate 2 files: 
 - `[filename].txt` - contains the actual dataset 
 - `nohup.out` - contains info about filename, number of records in the dataset, and execution time. 
