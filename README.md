@@ -32,3 +32,11 @@ Execution time will be printed to the terminal.
 
 
 ## Question 2c. 
+1. Run the following command to generate and sort datasets with 1000, 10000, 100000 records (10000000 didn't finish executing).
+   ```
+     ./task3.sh
+   ```
+2. The above command will print out execution times and create 6 files:
+   - data_1000.txt and data_1000_sorted.txt
+   - data_10000.txt and data_10000_sorted.txt
+   - data_100000.txt and data_100000_sorted.txt
